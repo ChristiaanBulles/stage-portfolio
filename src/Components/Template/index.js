@@ -5,14 +5,10 @@ export default class Template extends Component {
 	render() {
 		const { title, paragraph, image } = this.props
 		return (
-			<div className="grid">
-
-				<div className="Button-back">
-					<button>- TERUG</button>
-				</div>
-
+			<div className="Template">
+				
 				<div className="Heading-names">
-					<h4>{title}</h4>
+					<h3>{title}</h3>
 				</div>
 
 				<div className="Paragraph">
@@ -20,11 +16,11 @@ export default class Template extends Component {
 				</div>
 
 				<div className="YearTime">
-					2017/2018
+					<h5>2017/2018</h5>
 				</div>
 
 				<div className="Photograph"> 
-					{image}
+					<img src={image} />
 				</div>
 				</div>	
 		)

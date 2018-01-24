@@ -1,7 +1,9 @@
 body {
-  font-family: 'Work Sans', sans-serif;
-  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 0.1em;
+  line-height: 1.5em;
 }
+
 
 * {
   font-weight: 400;
@@ -19,7 +21,6 @@ h1 {
   font-style: cursive;
   padding-top: 200px;
   letter-spacing: 0.1em;
-
 }
 
 
@@ -33,6 +34,16 @@ h2 {
 }
 
 h3 {
+  color: #252525;
+  font-size: 56px;
+  text-align: center;
+  font-style: cursive;
+  padding-top: 20%;
+  letter-spacing: 2px; 
+  text-transform: uppercase;
+}
+
+h4 {
   color: white;
   font-size: 15px;
   text-align: center;
@@ -41,9 +52,20 @@ h3 {
   letter-spacing: 0.1em; 
 }
 
+h5 {
+  color: #252525;
+  font-size: 20px;
+  font-style: cursive;
+  padding-top: 20%;
+  letter-spacing: 0.1em; 
+  font-weight: 600;
+}
+
+
 p {
+
   font-size: 15px;
-  color: white;
+  color: #252525;
 }
 
 
