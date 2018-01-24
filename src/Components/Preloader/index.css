@@ -1,0 +1,18 @@
+.Title {
+	height: 1080px;
+	width: auto;
+	background-color: #252525;
+}
+
+.Pre-intro { 
+	background-color: #252525; 
+	padding: none;
+	height: auto;
+}
+
+p {
+	font-size: 15px;
+  color: white;
+  text-align: center;
+  padding-top: 30%;
+}
