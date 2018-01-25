@@ -26,7 +26,6 @@
   width: auto;
   grid-column: 6 / 12;
   grid-row: 2 / 6;
-  background-color: red;
 }
 
 .Template .YearTime {
@@ -36,9 +35,10 @@
   width: 100px;
 }
 
-.Template img {
-  max-width: auto;
-  max-height: 700px;
-  grid-column: 6 / 12;
-  grid-row: 3 / 6;
+.Template .Photograph .slide {
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
