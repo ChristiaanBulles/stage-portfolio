@@ -1,12 +1,16 @@
-.Title {
+.person {
 	height: 1080px;
 	width: auto;
 	background-color: #252525;
 }
 
-.Pre-intro { 
+.scroll { 
 	background-color: #252525; 
 	padding: none;
 	height: auto;
+	padding-top: 100px;
 }
 
+.chris {/*
+	hier komt mijn image*/
+}

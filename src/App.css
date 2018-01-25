@@ -21,6 +21,7 @@ h1 {
   font-style: cursive;
   padding-top: 200px;
   letter-spacing: 0.1em;
+  text-shadow: 2px 2px 5px red;
 }
 
 

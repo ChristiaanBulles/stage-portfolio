@@ -10,6 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Mainpage />
       
       {Data.projects.map((project, i) => (
       	<Template
