@@ -35,7 +35,7 @@ export default class Template extends Component {
 				</div>
 
 				<div className="Paragraph">
-					<p>{paragraph}</p>
+					<p>{paragraph[this.state.slide]}</p>
 				</div>
 
 				<div className="YearTime">
