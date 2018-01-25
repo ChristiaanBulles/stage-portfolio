@@ -77,7 +77,13 @@ const data = {
 		{
 			"title": "Waves",
 			"paragraph": "",
-			"image": ""
+			"image": [
+				require('../Images/Waves/Klukske/Image1.png'),
+				require('../Images/Waves/Klukske/Image2.png'),
+				require('../Images/Waves/Klukske/Image3.png'),
+				require('../Images/Waves/Klukske/Image4.png'),
+
+			]
 		},
 	]
 }
