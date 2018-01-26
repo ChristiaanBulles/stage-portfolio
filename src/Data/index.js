@@ -4,8 +4,15 @@ const data = {
 		{
 			"title": "echo",
 			"paragraph": [
-				"Wat leuk dat jij een bezoekje brengt op mijn portfolio website.Ik zal mij even kort voorstellen mijn naam is Christiaan Bulles, Ik ben 21 jaar jong en woon in Vaals. Sinds 2015 volg ik de opleiding Media vormgeving op het Arcus in Sittard. Ik zit nu in het derde leerjaar en zit nog steeds vol met passie voor de wereld van design.Op deze site vind je alle projecten die ik de afgelopen 6 maanden heb mogen meelopen. In de afgelopen maanden dat ik stage heb gelopen bij BobWassermann Design mag ik met zekerheid zeggen dat ik enorm ben doorgegroeid en vooral meer zelfvertrouwen heb gekregen.",
+				"Het project “Echo” is een van de eerste projecten die ik volledig heb mogen meelopen in een design bureau. Tijdens dit project heb ik mogen helpen bij de ontwikkelingen van het design, de flow, en de uiteindelijke development. Echo is een online platform waarbij twee partijen geld kunnen inzetten op een online fifa pot. De uiteindelijke winnaar krijgt de inzet van de ander. Bij de volgende foto’s staat een korte omschrijving over wat mijn werkzaamheden waren.",
 				"testtesttest",
+				"testtesttest",
+				"testtesttest",
+				"testtesttest",
+				"testtesttest",
+				"testtesttest",
+				"testtesttest",
+				
 			],
 			"image": [
 				require('../Images/Echo/Image1.png'),

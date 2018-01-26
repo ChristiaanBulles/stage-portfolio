@@ -10,6 +10,7 @@ export default class Mainpage extends Component {
 					<div className="scroll">
 					<h2>SCROLL DOWN FOR MORE INFO</h2>
 					</div>	
+					<p>test</p>
 			</div>
 			</div>
 		)
