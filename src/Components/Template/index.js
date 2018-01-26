@@ -56,13 +56,15 @@ export default class Template extends Component {
 					}
 					</div>
 
-					<div 
-						className={`prev-slide slide-arrow ${this.state.slide === 0 ? 'deactive' : ''}`}
-						onClick={() => this.prevSlide()}>prev</div>
+					<div className="arrows">
+						<div 
+							className={`prev-slide slide-arrow ${this.state.slide === 0 ? 'deactive' : ''}`}
+							onClick={() => this.prevSlide()}></div>
 
-					<div 
-						className={`next-slide slide-arrow ${this.state.slide === (this.props.image.length - 1) ? 'deactive' : ''}`}
-						onClick={() => this.nextSlide()}>next</div>
+						<div 
+							className={`next-slide slide-arrow ${this.state.slide === (this.props.image.length - 1) ? 'deactive' : ''}`}
+							onClick={() => this.nextSlide()}></div>
+					</div>
 
 				</div>
 				</div>	

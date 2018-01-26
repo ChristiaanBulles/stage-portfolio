@@ -55,6 +55,7 @@ const data = {
 				require('../Images/Talento/Talento3.png'),
 				require('../Images/Talento/Talento4.png'),
 				require('../Images/Talento/Talento5.png'),
+				require('../Images/Talento/Talento6.png'),
 				require('../Images/Talento/Talento7.png'),
 				require('../Images/Talento/Talento8.png'),
 				require('../Images/Talento/Talento9.png'),
@@ -82,6 +83,13 @@ const data = {
 				require('../Images/Waves/Klukske/Image2.png'),
 				require('../Images/Waves/Klukske/Image3.png'),
 				require('../Images/Waves/Klukske/Image4.png'),
+				require('../Images/Waves/Youstudents/Image1.png'),
+				require('../Images/Waves/Youstudents/Image2.png'),
+				require('../Images/Waves/Youstudents/Image3.png'),
+				require('../Images/Waves/Youstudents/Image4.png'),
+				require('../Images/Waves/Youstudents/Image5.png'),
+				require('../Images/Waves/Look2go/Image1.png'),
+				require('../Images/Waves/Look2go/Image2.png'),
 
 			]
 		},

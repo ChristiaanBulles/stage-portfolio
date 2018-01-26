@@ -7,16 +7,14 @@
 
 
 .Template .Heading-names {
-	grid-column: 2 / 4;
+	grid-column: 2 / 10;
   grid-row: 2;
-  height: 100px;
-  width: 100px;
-  font-size: 20px;
 }
 
 .Template .Paragraph {
   font-size: 20px;
   color: #252525;
+  text-align: justify;
   grid-column: 2 / 4;
   grid-row: 3 / 5;
 }
@@ -36,9 +34,35 @@
 }
 
 .Template .Photograph .slide {
-  width: 100%;
+  width: 90%;
   height: 600px;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.Template .arrows {
+  display: grid;
+  justify-content: space-between;
+}
+
+.Template .slide-arrow {
+  width: 50px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.Template .slide-arrow.prev-slide {
+  background-image: url('../../Images/Icons/icon__arrow-left.svg');
+  grid-column: 3 / 8;
+  grid-row: 6;
+}
+
+
+.Template .slide-arrow.next-slide {
+  background-image: url('../../Images/Icons/icon__arrow-right.svg');
+  grid-column: 4 / 8;
+  grid-row: 6;
 }

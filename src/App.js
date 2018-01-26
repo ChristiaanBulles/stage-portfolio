@@ -10,6 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Preloader />
         <Mainpage />
       
       {Data.projects.map((project, i) => (
