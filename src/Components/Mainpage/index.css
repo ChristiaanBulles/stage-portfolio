@@ -1,20 +1,17 @@
 .person {
-	height: 1080px;
+	height: 1150px;
 	width: auto;
-	background-color: #252525;
-}
-
-.scroll { 
-	background-color: #252525; 
-	padding: none;
-	height: auto;
+	background-image: url(../../Images/Intro/Christiaan.jpg);
 
 }
 
-.chris {/*
-	hier komt mijn image*/
-}
-
-p {
+.introtekst {
+	width: 800px;
+	height: 400px;
+	padding-left: 33%;
+	text-align: justify;
 	color: white;
+	font-weight: 200;
+	padding-top: 3%;
+	align-items: center;
 }
