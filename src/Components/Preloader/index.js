@@ -7,8 +7,8 @@ export default class Preloader extends Component {
 			<div className="Title">
 				<div className="Pre-intro">
 				<h1>STAGEPORTFOLIO</h1>
-				<h2>CHRISTIAAN BULLES</h2>
-				<h4>2017/2018</h4>
+			
+				<h2>2017/2018</h2>
 			</div>	
 		</div>
 		)
