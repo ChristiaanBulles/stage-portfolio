@@ -4,6 +4,7 @@ body {
   line-height: 1.5em;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Teko');
 
 * {
   font-weight: 400;
