@@ -2,7 +2,7 @@
   "name": "stageportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ChristiaanBulles.github.io/stage-portfolio",
+  "homepage": "https://christiaanbulles.github.io/stage-portfolio",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
